@@ -8,6 +8,15 @@ main:
     url: /previous-workshops/
   - title: "Distributed Data Collection"
     url: /distributed-data-collection/
+    children:
+    - title: "Call for Contributions"
+      url: /call-for-contributions/
+    - title: "Participating Labs"
+      url: /participating-labs/
+    - title: "Stimiulus Manual"
+      url: /stimulus-manual/
+    - title: "Dataset"
+      url: /dataset/
   - title: "Resources"
     url: /resources/
   - title: "Organizers"
