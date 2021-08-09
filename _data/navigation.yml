@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "2021 - Best Practice Stimulus Design"
+    url: /emip-2021-ii/
+  - title: "Previous Workshops"
+    url: /previous-workshops/
+  - title: "Distributed Data Collection"
+    url: /distributed-data-collection/
+  - title: "Resources"
+    url: /resources/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Sponsors"
+    url: /sponsors/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
