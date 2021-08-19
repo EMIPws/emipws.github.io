@@ -1,4 +1,9 @@
-# Resources
+---
+layout: single
+permalink: /resources/
+header:
+title: "Resources"
+---
 ## Materials
 Coding Scheme
 Visualizations

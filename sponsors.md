@@ -1,4 +1,9 @@
-# Sponsors
+---
+layout: single
+permalink: /sponsors/
+header:
+title: "Sponsors"
+---
 This series of workshops has been supported by:
 
 **2013 – Analyzing the expert’s gaze,**
