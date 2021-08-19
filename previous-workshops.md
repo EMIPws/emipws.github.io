@@ -2,7 +2,7 @@
 layout: single
 permalink: /previous-workshops/
 header:
-  image: /images/EMIP_Icon_2021_transparent.png
+  #image: /images/EMIP_Icon_2021_transparent.png
 title: "Previous Workshops"
 ---
 2013 Analyzing the expert’s gaze
