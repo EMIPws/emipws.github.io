@@ -1,0 +1,65 @@
+previous-workshops-expanded:
+  - title: "EMIP 2013 Workshop"
+    url: /emip-2013/
+    children:
+      - title: "EMIP 2013 Call for Papers"
+        url: /emip-2013-call-for-papers/
+      - title: "Technical Report 2013"
+        url: /emip-2013-technical-report/
+      - title: "EMIP 2013 Datasets"
+        url: /emip-2013-datasets/
+  - title: "EMIP 2014 Workshop"
+    url: /emip-2014/
+    children:
+      - title: "EMIP 2014 Call for Papers"
+        url: /emip-2014-call-for-papers/
+      - title: "Technical Report 2014"
+        url: /emip-2014-technical-report/
+      - title: "EMIP 2014 Datasets"
+        url: /emip-2014-datasets/
+  - title: "EMIP 2015 Workshop"
+    url: /emip-2015/
+    children:
+      - title: "EMIP 2015 Call for Papers"
+        url: /emip-2015-call-for-papers/
+      - title: "Technical Report 2015"
+        url: /emip-2015-technical-report/
+      - title: "Registration 2015"
+        url: /emip-2015-registration/
+      - title: "EMIP 2015 Travel Information"
+        url: /emip-2015-travel-information/
+  - title: "EMIP 2017 Workshop"
+    url: /emip-2017/
+    children:
+      - title: "EMIP 2017 Program"
+        url: /emip-2017-program/
+      - title: "Technical Report 2017"
+        url: /emip-2017-technical-report/
+      - title: "EMIP 2017 Travel Information"
+        url: /emip-2017-travel-information/
+  - title: "EMIP 2018 Workshop"
+    url: /emip-2018/
+    children:
+      - title: "EMIP 2018 Call for Papers"
+        url: /emip-2018-call-for-papers/
+      - title: "EMIP 2018 Program"
+        url: /emip-2018-program/
+  - title: "EMIP 2019 Workshop"
+    url: /emip-2019/
+    children:
+      - title: "EMIP 2019 Call for Papers"
+        url: /emip-2019-call-for-papers/
+      - title: "EMIP 2019 Program"
+        url: /emip-2019-program/
+  - title: "EMIP 2020 Workshop"
+    url: /emip-2020/
+    children:
+      - title: "EMIP 2020 Call for Papers"
+        url: /emip-2020-call-for-papers/
+      - title: "EMIP 2020 Program"
+        url: /emip-2020-program/
+  - title: "EMIP 2021 Workshop"
+    url: /emip-2021/
+    children:
+      - title: "EMIP 2021 Call for Papers"
+        url: /emip-2021-call-for-papers/
