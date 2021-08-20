@@ -16,7 +16,7 @@ The dataset consists of:
 3. rawdata – folder with raw eye movement data
 4. stimuli – folder with screenshots of the experiment slides and AOI coordinates for the stimulus programs. For more details on stimulus see [stimulus material](/stimulus-material/).
 
-[Link to the dataset](/assets/emip_dataset.zip)
+[Link to the dataset](http://emipws.org/wp-content/uploads/emip_dataset.zip)
 
 **Apparatus:**
 
