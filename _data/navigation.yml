@@ -1,22 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "2021 - Best Practice Stimulus Design"
-    url: /emip-2021-ii/
+    url: /_pages/emip-2021-ii/
   - title: "Previous Workshops"
     url: /previous-workshops/
   - title: "Distributed Data Collection"
     url: /distributed-data-collection/
-    children:
-    - title: "Call for Contributions"
-      url: /call-for-contributions/
-    - title: "Participating Labs"
-      url: /participating-labs/
-    - title: "Stimiulus Manual"
-      url: /stimulus-manual/
-    - title: "Dataset"
-      url: /dataset/
+
   - title: "Resources"
     url: /resources/
   - title: "Organizers"
@@ -32,3 +22,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+distributed-data-collection:
+  - title: Distributed Data Collection
+    children:
+    - title: "Call for Contributions"
+      url: /call-for-contributions/
+    - title: "Participating Labs"
+      url: /participating-labs/
+    - title: "Stimiulus Manual"
+      url: /stimulus-manual/
+    - title: "Dataset"
+      url: /dataset/
+previous-workshops:
