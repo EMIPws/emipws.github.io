@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /workshop/emip-2014-dataset/
+permalink: /workshop/emip-2014-datasets/
 header:
 title: "EMIP 2014 Workshop - Technical Report"
 sidebar:
