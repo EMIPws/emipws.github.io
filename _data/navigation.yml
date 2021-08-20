@@ -37,23 +37,22 @@ distributed-data-collection:
 previous-workshops:
   - title: Previous Workshops
     url: /previous-workshops/
+  - title: "EMIP 2013 Workshop"
+    url: /emip-2013/
+  - title: "EMIP 2014 Workshop"
+    url: /emip-2014/
+  - title: "EMIP 2015 Workshop"
+    url: /emip-2015/
+  - title: "EMIP 2017 Workshop"
+    url: /emip-2017/
+  - title: "EMIP 2018 Workshop"
+    url: /emip-2018/
+  - title: "EMIP 2019 Workshop"
+    url: /emip-2019/
+  - title: "EMIP 2020 Workshop"
+    url: /emip-2020/
+  - title: "EMIP 2021 Workshop"
+    url: /emip-2021/
     children:
-    - title: "2013 - Analyzing the Expert's Gaze"
-      url: /emip-2013/
-    - title: "2014 - Analyzing the Novice's Gaze"
-      url: /emip-2014/
-    - title: "2015 - Models to Data"
-      url: /emip-2015/
-    - title: "2017 - EMIP '17 Spring Academy"
-      url: /emip-2017/
-    - title: "2018 - EMIP 2018 at ACM ETRA"
-      url: /emip-2018/
-    - title: "EMIP 2019 Workshop Colocated"
-      url: /emip-2019/
-    - title: "EMIP 2020 Workshop"
-      url: /emip-2020/
-    - title: "EMIP 2021 Workshop"
-      url: /emip-2021/
-      children:
-        - title: "EMIP 2021 Call for Papers"
-          url: /emip-2021-call-for-papers/
+      - title: "EMIP 2021 Call for Papers"
+        url: /emip-2021-call-for-papers/
