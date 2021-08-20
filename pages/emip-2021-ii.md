@@ -2,7 +2,6 @@
 layout: single
 permalink: /emip-2021-ii/
 header:
-  #image: /images/EMIP_Icon_2021_transparent.png
 title: "2021 – Best Practice Stimulus Design"
 sidebar:
   nav: "main"
