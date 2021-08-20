@@ -44,7 +44,7 @@ resources:
       url: /pages/visualizations-and-tools/
 
 previous-workshops:
-    - title: "EMIP 2013 Workshop"
+  - title: "EMIP 2013 Workshop"
     url: /pages/workshop/emip-2013/
   - title: "EMIP 2014 Workshop"
     url: /pages/workshop/emip-2014/
