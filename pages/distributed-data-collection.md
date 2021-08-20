@@ -7,6 +7,10 @@ title: "Distributed Collection of Eye Movement Data in Programming"
 sidebar:
   nav: "distributed-data-collection"
 ---
-Call for Contributions
+[Call for Contributions](/call-for-contributions/)
 
-Participating Labs
+[Participating Labs](/participating-labs/)
+
+[Stimulus Material](/stimulus-material/)
+
+[Dataset](/dataset/)

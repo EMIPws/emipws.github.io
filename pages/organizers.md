@@ -3,16 +3,18 @@ layout: single
 permalink: /organizers/
 header:
 title: "Organizers"
+sidebar:
+  nav: "main"
 ---
 
 **EMIP Steering Committee** (in alphabetical order)
 
-Roman Bednarik
+[Roman Bednarik](http://cs.uef.fi/~rbednari/)
 
-Andrew Begel
+[Andrew Begel](http://andrewbegel.com/)
 
-Teresa Busjahn
+[Teresa Busjahn](https://www.htw-berlin.de/hochschule/personen/person/?eid=12337)
 
-Norman Peitek
+[Norman Peitek](https://peitek.com/)
 
-Bonita Sharif
+[Bonita Sharif](https://www.shbonita.me/)
