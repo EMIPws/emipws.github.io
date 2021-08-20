@@ -128,7 +128,7 @@ previous-workshops-expanded:
 
 emip-2013:
   - title: "EMIP 2013 Workshop"
-    url: /emip-2013/
+    url: /pages/workshop/emip-2013/
     children:
       - title: "EMIP 2013 Call for Papers"
         url: /pages/workshop/emip-2013-call-for-papers/
