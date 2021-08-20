@@ -4,14 +4,46 @@ main:
     url: /emip-2021-ii/
   - title: "Previous Workshops"
     url: /workshop/previous-workshops/
+    children:
+    - title: "EMIP 2013 Workshop"
+      url: /workshop/emip-2013/
+    - title: "EMIP 2014 Workshop"
+      url: /workshop/emip-2014/
+    - title: "EMIP 2015 Workshop"
+      url: /workshop/emip-2015/
+    - title: "EMIP 2017 Workshop"
+      url: /workshop/emip-2017/
+    - title: "EMIP 2018 Workshop"
+      url: /workshop/emip-2018/
+    - title: "EMIP 2019 Workshop"
+      url: /workshop/emip-2019/
+    - title: "EMIP 2020 Workshop"
+      url: /workshop/emip-2020/
+    - title: "EMIP 2021 Workshop"
+      url: /workshop/emip-2021/
   - title: "Distributed Data Collection"
     url: /distributed-data-collection/
+    children:
+    - title: "Call for Contributions"
+      url: /call-for-contributions/
+    - title: "Participating Labs"
+      url: /participating-labs/
+    - title: "Stimiulus Manual"
+      url: /stimulus-manual/
+    - title: "Dataset"
+      url: /dataset/
   - title: "Resources"
     url: /resources/
+    children:
+    - title: "Coding Scheme"
+      url: /coding-scheme/
+    - title: "Visualizations and Tools"
+      url: /visualizations-and-tools/
   - title: "Organizers"
     url: /organizers/
   - title: "Sponsors"
     url: /sponsors/
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
