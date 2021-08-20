@@ -4,7 +4,7 @@ permalink: /visualizations-and-tools/
 header:
 title: "Visualizations and Tools"
 sidebar:
-  nav: "resources"
+  nav: "main"
 ---
 
 [eyeCode](#eyecode-by-michael-hansen)

@@ -4,7 +4,7 @@ permalink: /coding-scheme/
 header:
 title: "Coding Scheme"
 sidebar:
-  nav: "resources"
+  nav: "main"
 ---
 
 [Coding Scheme](#coding-scheme)

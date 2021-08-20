@@ -27,20 +27,20 @@ The stimuli were presented to participants using a laptop PC. The screen resolut
 The experiment involved 269 participants, of which 15 had to be excluded due to different reasons (e.g. terminating the experiment prematurely). All subjects filled a questionnaire with the following items:
 
 - Age
-- Gender (female | male | other)
+- Gender (female \| male \| other)
 - Mother tongue
-- English level (none | low | medium | high)
-- Overall programming expertise (none | low | medium | high)
-- Expertise in Java / Python / Scala (none | low | medium | high)
+- English level (none \| low \| medium \| high)
+- Overall programming expertise (none \| low \| medium \| high)
+- Expertise in Java / Python / Scala (none \| low \| medium \| high)
 - How long they have been programming (years)
 - How long they have been programming in Java / Python / Scala (years)
 - How often they use any programming language other than Java / Python / Scala
-  (not at all | less than 1 hour / month | less than 1 hour / week | less than 1 hour / day | more than 1 hour / day)
+  (not at all \| less than 1 hour / month \| less than 1 hour / week \| less than 1 hour / day \| more than 1 hour / day)
 - How often they program in Java / Python / Scala
-  (not at all | less than 1 hour / month | less than 1 hour / week | less than 1 hour / day | more than 1 hour / day)
-- Which other programming languages they know (Language – Level of expertise: low | medium | high)
-- Whether they are wearing glasses or contact lenses (no | glasses | contact lenses)
-- Whether they are wearing mascara or other eye-makeup (yes | no)
+  (not at all \| less than 1 hour / month \| less than 1 hour / week \| less than 1 hour / day \| more than 1 hour / day)
+- Which other programming languages they know (Language – Level of expertise: low \| medium \| high)
+- Whether they are wearing glasses or contact lenses (no \| glasses \| contact lenses)
+- Whether they are wearing mascara or other eye-makeup (yes \| no)
 The answers are compiled in emip_metadata.csv.
 
 **Dataset**
@@ -50,7 +50,7 @@ For each participant, the dataset contains a tsv-file with raw eye movement data
 The data columns are separated by  a tab, they include among others:
 
 - Time: timestamp of the sample
-- Type: Sample (SMP) | Message (MSG)
+- Type: Sample (SMP) \| Message (MSG)
 - L Raw X [px]: horizontal pupil position – left eye
 - L Raw Y [px]: vertical pupil position – left eye
 - R Raw X [px]: horizontal pupil position – right eye
