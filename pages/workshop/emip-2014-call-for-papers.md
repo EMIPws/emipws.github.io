@@ -1,14 +1,14 @@
 ---
 layout: single
-permalink: /emip-2014-call-for-papers/
+permalink: /workshop/emip-2014-call-for-papers/
 header:
 title: "EMIP 2014 Workshop - Call for Papers"
 sidebar:
   nav: "emip-2014"
 ---
 ## International Workshop at the 9th WiPSCE Conference on Computing Education
-# **Freie Universität Berlin, Germany, November 7th – November 8th, 2014**
-# **Organizers: Teresa Busjahn, Carsten Schulte, Sascha Tamm (Freie Universität Berlin), Roman Bednarik (University of Eastern Finland)**
+**Freie Universität Berlin, Germany, November 7th – November 8th, 2014**
+**Organizers: Teresa Busjahn, Carsten Schulte, Sascha Tamm (Freie Universität Berlin), Roman Bednarik (University of Eastern Finland)**
 
 ![](/images/skyline_berlin.png)
 

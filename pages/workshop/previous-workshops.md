@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /previous-workshops/
+permalink: /workshop/previous-workshops/
 header:
   #image: /images/EMIP_Icon_2021_transparent.png
 title: "Previous Workshops"

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /pages/workshop/emip-2013-call-for-papers/
+permalink: /workshop/emip-2013-call-for-papers/
 header:
 title: "EMIP 2013 Workshop - Call for Papers"
 sidebar:
