@@ -3,6 +3,8 @@ layout: single
 permalink: /sponsors/
 header:
 title: "Sponsors"
+sidebar:
+  nav: "main"
 ---
 This series of workshops has been supported by:
 
