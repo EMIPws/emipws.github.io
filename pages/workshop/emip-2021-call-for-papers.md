@@ -39,13 +39,14 @@ We invite short papers contributions (~~up to 4 pages~~, up to 8 pages, without 
 
 <span style="color:red">**Please note that the correct submission format is single-column! This allows for up to 8 pages (+ references).**</span>
 
-We will use ETRA’s PCS system for submission handling. To submit a paper, please visit: https://new.precisionconference.com/user/login?society=etra, select “Society: ETRA, Conference: ETRA2021, Track: ETRA 2021 Workshop – Eye Movements in Programming EMIP”. Your submission should be prepared following the [ETRA template instructions](http://etra.acm.org/2021/submissionprocess.html).
+We will use ETRA’s PCS system for submission handling. To submit a paper, please visit: [https://new.precisionconference.com/user/login?society=etra](https://new.precisionconference.com/user/login?society=etra), select “Society: ETRA, Conference: ETRA2021, Track: ETRA 2021 Workshop – Eye Movements in Programming EMIP”. Your submission should be prepared following the [ETRA template instructions](http://etra.acm.org/2021/submissionprocess.html).
 
 Each submission will be reviewed by at least two members of the program committee. All accepted papers will be published in ETRA’s short paper proceedings in the ACM Digital Library. If a submission is accepted, at least one author of the paper is required to attend the workshop and (virtually) present the paper. We likely will use recorded presentations.
 
 # Important Dates
 Deadline for papers: ~~February 20th, 2021~~ <span style="color:red">~~February 27th, 2021~~</span>
 Notification to authors: ~~March 15th, 2021~~
+
 Camera-ready deadline: ~~March 29th, 2021~~
 Workshop: **May 27th 2021**, 3pm-6pm (CEST)
 # Accepted Papers

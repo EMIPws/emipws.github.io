@@ -40,8 +40,11 @@ Each submission will be reviewed by at least two members of the program committe
 
 # Important Dates
 Deadline for papers: ~~**February 8th, 2019** (Extended)~~
+
 Notification to authors: ~~March 1st, 2019~~
+
 Camera-ready Deadline: ~~March 15th, 2019~~
+
 Workshop: Monday, May 27, 2019
 
 # Accepted Papers

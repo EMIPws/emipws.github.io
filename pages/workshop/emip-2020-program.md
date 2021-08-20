@@ -4,7 +4,7 @@ permalink: /workshop/emip-2020-program/
 header:
 title: "EMIP 2020 Workshop - Program"
 sidebar:
-  nav: "emip-2020-program"
+  nav: "emip-2020"
 ---
 As you might have heard, ETRA2020 will not take place this year due to COVID-19. We had the option to organize the workshop in 2021 co-located with ETRA2021. However, this may be too late for some of our authors to get meaningful and timely feedback. Thus, we decided to do a **virtual event for EMIP 2020.**
 

@@ -4,7 +4,7 @@ permalink: /workshop/emip-2020-call-for-papers/
 header:
 title: "EMIP 2020 Workshop - Call for Papers"
 sidebar:
-  nav: "emip-2020-call-for-papers"
+  nav: "emip-2020"
 ---
 # Workshop Overview
 The Seventh International Workshop on Eye Movements in Programming (EMIP) will be held on ~~*Tuesday 02 June 2020** in Stuttgart, Germany. It is co-located with the [12th ACM Symposium on Eye Tracking Research and Applications (ETRA2020).](https://etra.acm.org/2020/)~~
@@ -38,14 +38,17 @@ One half of the workshop will be devoted to presenting new research results. The
 
 We invite short papers contributions (up to 4 pages, without references). Submissions must be written in English.
 
-We use ETRA’s PCS system for submission handling. To submit a paper, please visit: [https://new.precisionconference.com/user/login?society=etra], select “Society: ETRA, Conference: ETRA2020, Track: ETRA 2020 Workshop – Eye Movements in Programming EMIP”. Your submissions should be prepared following the [sigconf instructions](http://www.siggraph.org/learn/instructions-authors). You can find detailed information for Word users on the ETRA’s [submission process page](http://etra.acm.org/2020/submissionprocess.html).
+We use ETRA’s PCS system for submission handling. To submit a paper, please visit: [https://new.precisionconference.com/user/login?society=etra](https://new.precisionconference.com/user/login?society=etra), select “Society: ETRA, Conference: ETRA2020, Track: ETRA 2020 Workshop – Eye Movements in Programming EMIP”. Your submissions should be prepared following the [sigconf instructions](http://www.siggraph.org/learn/instructions-authors). You can find detailed information for Word users on the ETRA’s [submission process page](http://etra.acm.org/2020/submissionprocess.html).
 
 Each submission will be reviewed by at least two members of the program committee. All accepted papers will be published in ETRA’s short paper proceedings in the ACM Digital Library. If a submission is accepted, at least one author of the paper is required to attend the workshop and present the paper in person.
 
 # Important Dates
 Deadline for papers: ~~February 25th, 2020~~
+
 Notification to authors: ~~March 20th, 2020~~
+
 Camera-ready deadline: ~~April 1st, 2020~~
+
 Workshop: ~~Tuesday, June 2nd, 2020~~ <span style="color:red">**June 1st to 5th 2020**</span>
 
 # Accepted Papers

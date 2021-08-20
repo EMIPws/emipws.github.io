@@ -55,7 +55,7 @@ Eye Movements as Measures of Cognitive Processing of Text and Image when Reading
 
 - The effect of syntax highlighting on source code reading – *Tanya Beelders*
 - Automatic AOI detection in stimulus texts using eyeCode – *Teresa Busjahn*
-eyeCode: [https://github.com/synesthesiam/eyecode]
+eyeCode: [https://github.com/synesthesiam/eyecode](https://github.com/synesthesiam/eyecode)
 Materials: [EMIP17_eyecode.zip](/assets/EMIP17_eyecode.zip) (extract to eyecode/examples)
 10:15 – 10:30 Coffee
 

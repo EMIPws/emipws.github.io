@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2018"
 ---
 
-**The EMIP 2018 workshop is a co-located with [ETRA](https://etra.acm.org/2018/emip.html**
+**The EMIP 2018 workshop is a co-located with [ETRA](https://etra.acm.org/2018/emip.html)**
 
 Date: Sunday, June 17, 2018
 
