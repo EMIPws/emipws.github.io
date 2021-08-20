@@ -3,6 +3,8 @@ layout: single
 permalink: /resources/
 header:
 title: "Resources"
+sidebar:
+  nav: "resources"
 ---
 ## Materials
 Coding Scheme
