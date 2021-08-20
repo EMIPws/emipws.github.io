@@ -8,7 +8,9 @@ sidebar:
 ---
 
 [eyeCode](#eyecode-by-michael-hansen)
+
 [Flow charts](#flow-charts-by-galina-shchekotova-and-maria-antropova)
+
 [VETool](#vetool-von-paul-orlov)
 
 # eyeCode by Michael Hansen

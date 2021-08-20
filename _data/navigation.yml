@@ -54,27 +54,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-distributed-data-collection:
-  - title: Distributed Data Collection
-    url: /distributed-data-collection/
-    children:
-    - title: "Call for Contributions"
-      url: /call-for-contributions/
-    - title: "Participating Labs"
-      url: /participating-labs/
-    - title: "Stimiulus Manual"
-      url: /stimulus-manual/
-    - title: "Dataset"
-      url: /dataset/
-resources:
-  - title: Resources
-    url: /resources/
-    children:
-    - title: "Coding Scheme"
-      url: /coding-scheme/
-    - title: "Visualizations and Tools"
-      url: /visualizations-and-tools/
-
 previous-workshops:
   - title: "EMIP 2013 Workshop"
     url: /workshop/emip-2013/
