@@ -18,15 +18,19 @@ sidebar:
 A Python library for analyzing gaze data of programmers
 
 ![](/images/time_subject1_small.png)
+
 Figure 1: Fixations per line – aggregated
 
 ![](/images/timeline_subject1_small.png)
+
 Figure 2: Fixations per line – over time
 
 ![](/images/fixperaoi_subject1_small.png)
+
 Figure 3: Fixation time per AOI
 
 ![](/images/rolling_subject1_small.png)
+
 Figure 4: Rolling Metrics
 
 Further examples:
@@ -54,5 +58,7 @@ Software Visual Evaluation Tool (VETool) was developed for visual evaluation of 
 [https://bitbucket.org/orlovpa/visual-evaluation-tool-vetool](https://bitbucket.org/orlovpa/visual-evaluation-tool-vetool)
 
 ![](/images/vetool1_small.png)
+
 ![](/images/vetool2_small.png)
+
 ![](/images/vetool3_small.png)
