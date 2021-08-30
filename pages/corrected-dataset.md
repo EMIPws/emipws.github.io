@@ -41,5 +41,7 @@ The details of the correction process and Toolkit features are presented [in thi
 
 Video presentation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wFdGyM6qUlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Please cite this paper:
+
 Naser Al Madi, Drew T. Guarnera, Bonita Sharif, and Jonathan I. Maletic.2021. EMIP Toolkit: A Python Library for Customized Post-processing of the Eye Movements in Programming Dataset. In ETRA ’21: 2021 Symposium on Eye Tracking Research and Applications (ETRA ’21 Short Papers), May25–27, 2021, Virtual Event, Germany. ACM, New York, NY, USA, 6 pages. [https://doi.org/10.1145/3448018.3457425](https://doi.org/10.1145/3448018.3457425)
