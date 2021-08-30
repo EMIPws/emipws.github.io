@@ -32,6 +32,8 @@ main:
       url: /stimulus-material/
     - title: "Dataset"
       url: /dataset/
+    - title: "Corrected Dataset"
+      url: /corrected-dataset/
   - title: "Resources"
     url: /resources/
     children:
