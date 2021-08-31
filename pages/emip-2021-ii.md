@@ -23,7 +23,7 @@ Workshop results will be compiled into a report and we are aiming at a joint pub
 
 The opening presentation will be given by Raymond Lister.
 
-**Registration**
+**Registration** \
 To participate send a mail to [registration@emipws.org](mailto:registration@emipws.org) until November 8th, 2021. Prior experience with either program comprehension or eye tracking is beneficial for participation, but not required.
 
 **Important Dates**
