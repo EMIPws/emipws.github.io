@@ -34,6 +34,9 @@ To participate send a mail to [registration@emipws.org](mailto:registration@emip
 - Synchronous workshop session: December 3rd (Friday)
 
 **Workshop Organizers**
+
 [Teresa Busjahn](mailto:busjahn@htw-berlin.de)
+
 Carsten Schulte
+
 Sascha Tamm
