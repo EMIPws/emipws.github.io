@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2020"
 ---
 # Workshop Overview
-The Seventh International Workshop on Eye Movements in Programming (EMIP) will be held on ~~*Tuesday 02 June 2020** in Stuttgart, Germany. It is co-located with the [12th ACM Symposium on Eye Tracking Research and Applications (ETRA2020).](https://etra.acm.org/2020/)~~
+The Seventh International Workshop on Eye Movements in Programming (EMIP) will be held on ~~**Tuesday 02 June 2020** in Stuttgart, Germany. It is co-located with the [12th ACM Symposium on Eye Tracking Research and Applications (ETRA2020).](https://etra.acm.org/2020/)~~
 
 <span style="color:red">**EMIP 2020 happened in a virtual and asynchronous manner spanning over the next week (June 1st to 5th, 2020).**</span>
 
