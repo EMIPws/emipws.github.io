@@ -8,6 +8,8 @@ sidebar:
 ---
 ![](/images/banner21b.png)
 
+Virtual event, November 29th - December 3rd, 2021
+
 ## Call for Participation
 Stimulus design is an often acknowledged threat to validity when studying gaze in programming. This hands-on EMIP workshop focuses on how to design stimulus source codes and corresponding tasks for eye tracking studies in programming. We will also discuss pitfalls when devising stimuli and how to avoid them.
 
