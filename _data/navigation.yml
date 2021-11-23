@@ -275,7 +275,7 @@ emip-2021:
         url: /workshop/emip-2021-call-for-papers/
       - title: "2021 - Best Practice Stimulus Design"
         url: /emip-2021-ii/
-    - title: "EMIP 2022 Workshop"
+  - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
   emip-2022:
   - title: "EMIP 2013 Workshop"
@@ -296,4 +296,3 @@ emip-2021:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
-    children:
