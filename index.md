@@ -4,7 +4,7 @@ sidebar:
 ---
 Programming education and practice mainly focus on writing code, while the reading skills are often taken for granted. Reading occurs in debugging, maintenance and the learning of programming languages. It provides the essential basis for comprehension. By analyzing behavioral data such as gaze during code reading processes, we explore this essential part of programming.
 
-**The next EMIP [Workshop on Best Practice Stimulus Design for EMIP Studies](/emip-2021-ii/) will take place November 29th – December 3rd, 2021 as virtual event.**
+**The [10th International Workshop on Eye Movements in Programming](/workshop/emip-2022/) will take place between May 21st and May 29, 2022 (TBD) in Pittsburgh, USA at the [44th International Conference on Software Engineering (ICSE 2022)](https://conf.researchr.org/home/icse-2022). Virtual option will be available.**
 
 EMIP 2021 was co-located with ETRA and happened virtually on May 27th 2021: workshop info!
 
