@@ -2,6 +2,9 @@
 main:
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+    children:
+      - title: "Call for Papers"
+        url: /workshop/emip-2022-call-for-papers/
   - title: "Previous Workshops"
     url: /workshop/previous-workshops/
     children:
@@ -303,3 +306,6 @@ emip-2022:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+    children:
+      - title: "Call for Papers"
+        url: /workshop/emip-2022-call-for-papers/

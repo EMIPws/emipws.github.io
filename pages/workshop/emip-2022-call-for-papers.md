@@ -1,0 +1,55 @@
+---
+layout: single
+permalink: /workshop/emip-2022-call-for-papers/
+header:
+title: "EMIP 2022 Workshop - Call for Papers"
+sidebar:
+  nav: "emip-2022"
+---
+# Workshop Overview
+We are inviting contributions to the Tenth International Workshop on Eye Movements in Programming 2022 which will be held between May 21st and May 29, 2022 (TBD). It is co-located with the [44th International Conference on Software Engineering (ICSE 2022)](https://conf.researchr.org/home/icse-2022).
+
+The Tenth International Workshop on Eye Movements in Programming (EMIP 2022) will again focus on advancing the methodological, theoretical, and applied aspects of eye movements in programming. The goal of the workshop is to further develop the methodology of using eye tracking for programming, both theoretically and in applications. What can gaze behavior tell us about cognitive processes during programming? This question enables us to understand the role of human factors involved in programming.
+
+# Topics of Interest
+We invite contributions analyzing gaze behavior of activities related to programming, such as code reading and debugging, social aspects, vision, and educational perspectives. These may include, but are not limited to, the role of emotions in programming, vision-based models, readability, and new theories of program comprehension. Contributions are expected to present implications to software engineering practice or programming education. Specific topics of interest include, but are not limited to:
+
+- Identification and analysis of appropriate data abstractions for eye tracking analysis
+- Models of cognition about software development
+- Effects of text-based, graphical, or diagram-based program representations
+- Effects of syntax or language features, as well as programming paradigms
+- Identification and analysis of behaviors and strategies of learners’ reading, writing, and debugging code, acquiring new domains and skills, longitudinal growth
+- Challenges for learners or software engineers (e.g., obstacles to learning or accomplishing tasks)
+- Applications for eye tracking, e.g., software engineering tasks, such as program comprehension, debugging, requirements traceability, change tracking
+- Development and evaluation of tools and processes for working with eye tracking
+- Development and evaluation of visualizations for static and dynamic program execution
+- Applications offering programming assistance or accessibility using eye tracking devices, data, and analyses
+- Combinations of eye tracking with other sensing modalities, such as fMRI, EEG, GSR, or fNIRS
+- Multi-person eye tracking, e.g., during pair programming or collaborative problem solving
+- Gaze datasets and source code amenable to gaze studies
+- Analyses of pre-existing gaze datasets, e.g. the EMIP dataset
+- Development of platforms, tools, and methods which enable reproducible experiments
+
+# Submissions and Presentations
+One half of the workshop will be devoted to presenting new research results. The other will focus on facilitating discussion, teaching practical skills, and growing the community. We invite three types of contributions: new research results (up to 8 pages), new ideas (4 pages), and demos (2 pages). Page limits include references.
+
+Submissions must be written in English and should be submitted through [EasyChair](https://easychair.org/conferences/?conf=emip2022). Formatting instructions are available [here](https://www.acm.org/publications/proceedings-template) for both LaTeX and Word users. LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document:
+
+\documentclass[sigconf, review, anonymous]{acmart}
+
+And use the ACM reference format for the bibliography:
+
+\bibliographystyle{ACM-Reference-Format}
+
+The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments. Each submission will be reviewed by at least two members of the program committee. Workshop proceedings will be prepared by IEEE CPS and published by ACM. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2022. The official publication date affects the deadline for any patent filings related to published work. If a submission is accepted, at least one author of the paper is required to attend the workshop and present the paper.
+
+# Important Dates
+- Deadline for papers: 14 January 2022
+- Notification to authors: 25 February 2022
+- Camera-ready Deadline: 18 March 2022
+- Workshop: May 21–29, 2022 (exact day TBD)
+
+# Workshop Organizers
+- Naser Al Madi — Colby College, USA
+- Teresa Busjahn — HTW Berlin, Germany
+- Bonita Sharif — University of Nebraska - Lincoln, USA
