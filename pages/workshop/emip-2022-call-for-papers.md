@@ -33,7 +33,7 @@ We invite contributions analyzing gaze behavior of activities related to program
 # Submissions and Presentations
 One half of the workshop will be devoted to presenting new research results. The other will focus on facilitating discussion, teaching practical skills, and growing the community. We invite three types of contributions: new research results (up to 8 pages), new ideas (4 pages), and demos (2 pages). Page limits include references.
 
-Submissions must be written in English and should be submitted through [EasyChair](https://easychair.org/conferences/?conf=emip2022). Formatting instructions are available [here](https://www.acm.org/publications/proceedings-template) for both LaTeX and Word users. LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document:
+Submissions must be written in English and should be submitted through [EasyChair](https://easychair.org/conferences/?conf=emip2022). Formatting instructions are available [here for both LaTeX and Word users](https://www.acm.org/publications/proceedings-template). LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document:
 
 \documentclass[sigconf, review, anonymous]{acmart}
 
