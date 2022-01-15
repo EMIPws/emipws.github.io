@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2022"
 ---
 # Workshop Overview
-We are inviting contributions to the Tenth International Workshop on Eye Movements in Programming 2022 which will be held on May 8, 2022 virtually and May 23-27, 2022 in-person. It is co-located with the [44th International Conference on Software Engineering (ICSE 2022)](https://conf.researchr.org/home/icse-2022).
+We are inviting contributions to the Tenth International Workshop on Eye Movements in Programming 2022 which will be held on May 18, 2022 virtually and May 23-27, 2022 in-person. It is co-located with the [44th International Conference on Software Engineering (ICSE 2022)](https://conf.researchr.org/home/icse-2022).
 
 The Tenth International Workshop on Eye Movements in Programming (EMIP 2022) will again focus on advancing the methodological, theoretical, and applied aspects of eye movements in programming. The goal of the workshop is to further develop the methodology of using eye tracking for programming, both theoretically and in applications. What can gaze behavior tell us about cognitive processes during programming? This question enables us to understand the role of human factors involved in programming.
 
