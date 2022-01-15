@@ -44,7 +44,7 @@ And use the ACM reference format for the bibliography:
 The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments. Each submission will be reviewed by at least two members of the program committee. Workshop proceedings will be prepared by IEEE CPS and published by ACM. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2022. The official publication date affects the deadline for any patent filings related to published work. If a submission is accepted, at least one author of the paper is required to attend the workshop and present the paper.
 
 # Important Dates
-- Deadline for papers: 14 January 2022
+- Deadline for papers: <strike>14 January 2022</strike> (Extended: 21 January 2022)
 - Notification to authors: 25 February 2022
 - Camera-ready Deadline: 18 March 2022
 - Workshop: May 8, 2022
