@@ -47,7 +47,7 @@ The review option adds line numbers, thereby allowing referees to refer to speci
 - Deadline for papers: <strike>14 January 2022</strike> (Extended: 21 January 2022)
 - Notification to authors: 25 February 2022
 - Camera-ready Deadline: 18 March 2022
-- Workshop: May 8, 2022
+- Workshop: May 18, 2022 (virtual)
 
 # Workshop Organizers
 - Naser Al Madi — Colby College, USA
