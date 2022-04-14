@@ -10,7 +10,7 @@ EMIP 2021 was co-located with ETRA and happened virtually on May 27th 2021: [wor
 
 Follow us on [Twitter](https://twitter.com/emipws) or [Facebook](https://www.facebook.com/emipws/) for news and updates.
 
-**EMIP 2022 Schedule:**
+**EMIP 2022 Schedule (May 18 2022):**
 
 | Central Time | Eastern Time | Pacific Time | UTC | Event | Duration |
 | --- | --- | --- | --- | --- | --- |
