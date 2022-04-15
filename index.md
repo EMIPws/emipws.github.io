@@ -2,13 +2,12 @@
 sidebar:
   nav: "main"
 ---
-Programming education and practice mainly focus on writing code, while the reading skills are often taken for granted. Reading occurs in debugging, maintenance and the learning of programming languages. It provides the essential basis for comprehension. By analyzing behavioral data such as gaze during code reading processes, we explore this essential part of programming.
+
 
 **The [10th International Workshop on Eye Movements in Programming](/workshop/emip-2022/) will take place May 18, 2022 virtually at the [44th International Conference on Software Engineering (ICSE 2022)](https://conf.researchr.org/home/icse-2022).**
 
-EMIP 2021 was co-located with ETRA and happened virtually on May 27th 2021: [workshop info](/workshop/emip-2021)!
+Programming education and practice mainly focus on writing code, while the reading skills are often taken for granted. Reading occurs in debugging, maintenance and the learning of programming languages. It provides the essential basis for comprehension. By analyzing behavioral data such as gaze during code reading processes, we explore this essential part of programming.
 
-Follow us on [Twitter](https://twitter.com/emipws) or [Facebook](https://www.facebook.com/emipws/) for news and updates.
 
 **EMIP 2022 Schedule (May 18 2022):**
 
@@ -24,3 +23,6 @@ Follow us on [Twitter](https://twitter.com/emipws) or [Facebook](https://www.fac
 | Noon | 1:00PM | 10:00AM | 5:00PM | Break and Small Group Breakout Discussion (optional) | 15 minutes
 | 12:15PM | 1:15PM | 10:15AM | 5:15PM | **Panel discussion:** Practical Implications of EMIP Research on Software Engineering and CS Education<br /><br />Andrew Begel - Microsoft Research, USA<br />Ian McChesney - Ulster University, Northern Ireland<br />Janet Siegmund - Technical University of Chemnitz, Germany<br />Martha Crosby - University of Hawaiʻi, USA<br />Norman Peitek - Saarland University, Germany<br />Roman Bednarik - University of Eastern Finland, Finland<br />Sarah Fakhoury - Washington State University, USA | 45 mins + 15 Q/A |
 | 1:15PM | 2:15PM | 11:15AM | 6:15PM | Closing | 5 minutes |
+
+
+Follow us on [Twitter](https://twitter.com/emipws) or [Facebook](https://www.facebook.com/emipws/) for news and updates.
