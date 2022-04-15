@@ -14,7 +14,7 @@ Programming education and practice mainly focus on writing code, while the readi
 | Central Time | Eastern Time | Pacific Time | UTC | Event | Duration |
 | --- | --- | --- | --- | --- | --- |
 | 10:00AM | 11:00AM | 8:00AM | 3:00PM | Welcome from Organizers | 5 minutes |
-| 10:05AM | 11:05AM | 8:05AM | 3:05PM | **Keynote by Felienne Hermans**<br />Hedy: Creating a Graduate Programming Language | 45 mins + 15 Q/A|
+| 10:05AM | 11:05AM | 8:05AM | 3:05PM | **[Keynote by Felienne Hermans](https://www.felienne.com/)**<br />Hedy: Creating a Graduate Programming Language | 45 mins + 15 Q/A|
 | 11:05AM | 12:05PM | 9:05AM | 4:05PM | Mingle and Introduction Breakout Sessions (optional) | 10 minutes |
 | 11:15AM | 12:15PM | 9:15AM | 4:15PM | Paper Presentations | 45 minutes |
 | | | | | Raymond Lister: *Some Thoughts on Designing Eye Movement Studies for Novice Programmers* | 10 mins + 5 Q/A |
