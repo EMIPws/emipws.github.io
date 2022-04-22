@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /workshop/emip-2022-call-for-papers/
+permalink: /workshop/emip-2022-program/
 header:
 title: "EMIP 2022 Workshop - Program"
 sidebar:
