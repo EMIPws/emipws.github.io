@@ -45,8 +45,8 @@ The review option adds line numbers, thereby allowing referees to refer to speci
 
 # Important Dates
 - Deadline for papers: <strike>14 January 2022</strike> (Extended: 21 January 2022)
-- Notification to authors: 25 February 2022
-- Camera-ready Deadline: 18 March 2022
+- Notification to authors: <strike>25 February 2022</strike>
+- Camera-ready Deadline: <strike>18 March 2022</strike>
 - Workshop: May 18, 2022 (virtual)
 
 # Workshop Organizers

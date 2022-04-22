@@ -309,3 +309,5 @@ emip-2022:
     children:
       - title: "Call for Papers"
         url: /workshop/emip-2022-call-for-papers/
+      - title: "Program"
+        url: /workshop/emip-2022-program/
