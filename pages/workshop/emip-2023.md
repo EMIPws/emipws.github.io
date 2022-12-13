@@ -59,7 +59,16 @@ Important dates:
 
 
 # Submissions and Presentations
-The workshop will be devoted to presenting new research results. We invite three types of contributions: new research results, new ideas, and demos. Submitted papers can contain up to 8 pages, which includes references.
+The workshop will be devoted to presenting new research results. We invite several types of contributions:
+• new research results
+
+• new ideas
+
+• demos
+
+Submitted papers can contain up to 8 pages (single column, plus references).
+
+Additionally, EMIP will feature work-in-progress papers with up to 4 pages (single column, plus references). These will be reviewed lightly, but not published in the proceedings. 
 
 Submissions must be written in English and should be submitted through Precision Conference System (PCS). Link and formatting instructions will be provided soon.
 
