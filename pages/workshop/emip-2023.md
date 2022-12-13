@@ -60,6 +60,7 @@ Important dates:
 
 # Submissions and Presentations
 The workshop will be devoted to presenting new research results. We invite several types of contributions:
+
 • new research results
 
 • new ideas
