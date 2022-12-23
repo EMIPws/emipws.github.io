@@ -53,7 +53,7 @@ Important dates:
 
 • Notification to authors: 15 March 2023
 
-• Camera-ready Deadline: to be announced
+• Camera-ready Deadline: 04 April 2023
 
 • Workshop: May/June, 2023, exact date to be announced
 
