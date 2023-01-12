@@ -71,7 +71,9 @@ Submitted papers can contain up to 8 pages (single column, plus references).
 
 Additionally, EMIP will feature work-in-progress papers with up to 4 pages (single column, plus references). These will be reviewed lightly, but not published in the proceedings. 
 
-Submissions must be written in English and should be submitted through Precision Conference System (PCS). Link and formatting instructions will be provided soon.
+Submissions must be written in English and should be submitted through Precision Conference System (PCS). To submit a paper, please visit: [https://new.precisionconference.com/user/login?society=etra](https://new.precisionconference.com/user/login?society=etra), select “Society: ETRA, Conference: ETRA2023, Track: ETRA 2023 – EMIP”. Your submission should be prepared following the [ETRA paper template instructions](http://etra.acm.org/2023/submissionprocess.html). Please use the ACM article template for all submissions with the `manuscript,review,anonymous` style.
+
+Each submission will be reviewed by three members of the program committee. All accepted papers will be published in ETRA’s short paper proceedings in the ACM Digital Library. If a submission is accepted, at least one author of the paper is required to attend the workshop and (virtually) present the paper.
 
 Follow us on [Twitter](https://twitter.com/emipws) or [Facebook](https://www.facebook.com/emipws/) for news and updates.
 
