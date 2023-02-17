@@ -49,7 +49,7 @@ The Workshop will be held in a hybrid fashion in Tübingen, Germany at the ACM S
 
 Important dates:
 
-• Deadline for papers: 18 February 2023
+• Deadline for papers: ~~18 February 2023~~ 22 February 2023
 
 • Notification to authors: 15 March 2023
 
