@@ -55,7 +55,7 @@ Important dates:
 
 • Camera-ready Deadline: 04 April 2023
 
-• Workshop: May/June, 2023, exact date to be announced
+• Workshop: Friday, June 2nd from 1:00 - 5:30PM
 
 
 # Submissions and Presentations
