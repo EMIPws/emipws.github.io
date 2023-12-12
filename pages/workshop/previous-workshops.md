@@ -24,3 +24,5 @@ sidebar:
 [EMIP 2021](/workshop/emip-2021)
 
 [EMIP 2022](/workshop/emip-2022)
+
+[EMIP 2023](/workshop/emip-2023)
