@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "EMIP 2023 Workshop"
-    url: /workshop/emip-2023/
+  - title: "EMIP 2024 Workshop"
+    url: /workshop/emip-2024/
     children:
       - title: "Call for Papers"
-        url: /workshop/emip-2023-call-for-papers/
-      - title: "Program"
-        url: /workshop/emip-2023-program/
+        url: /workshop/emip-2024-call-for-papers/
   - title: "Previous Workshops"
     url: /workshop/previous-workshops/
     children:
@@ -28,6 +26,8 @@ main:
       url: /workshop/emip-2021/
     - title: "EMIP 2022 Workshop"
       url: /workshop/emip-2022/
+    - title: "EMIP 2023 Workshop"
+      url: /workshop/emip-2023/
   - title: "Distributed Data Collection"
     url: /distributed-data-collection/
     children:
@@ -82,6 +82,8 @@ previous-workshops:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2013:
   - title: "EMIP 2013 Workshop"
@@ -109,6 +111,8 @@ emip-2013:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
     
 emip-2014:
   - title: "EMIP 2013 Workshop"
@@ -136,6 +140,8 @@ emip-2014:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2015:
   - title: "EMIP 2013 Workshop"
@@ -163,6 +169,8 @@ emip-2015:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2017:
   - title: "EMIP 2013 Workshop"
@@ -190,6 +198,8 @@ emip-2017:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2018:
   - title: "EMIP 2013 Workshop"
@@ -215,6 +225,8 @@ emip-2018:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2019:
   - title: "EMIP 2013 Workshop"
@@ -240,6 +252,8 @@ emip-2019:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2020:
   - title: "EMIP 2013 Workshop"
@@ -265,6 +279,8 @@ emip-2020:
     url: /workshop/emip-2021/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2021:
   - title: "EMIP 2013 Workshop"
@@ -290,6 +306,8 @@ emip-2021:
         url: /emip-2021-ii/
   - title: "EMIP 2022 Workshop"
     url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
 
 emip-2022:
   - title: "EMIP 2013 Workshop"
@@ -315,6 +333,8 @@ emip-2022:
         url: /workshop/emip-2022-call-for-papers/
       - title: "Program"
         url: /workshop/emip-2022-program/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
         
 emip-2023:
   - title: "EMIP 2013 Workshop"
@@ -342,3 +362,30 @@ emip-2023:
         url: /workshop/emip-2023-call-for-papers/
       - title: "Program"
         url: /workshop/emip-2023-program/
+        
+emip-2024:
+  - title: "EMIP 2013 Workshop"
+    url: /workshop/emip-2013/
+  - title: "EMIP 2014 Workshop"
+    url: /workshop/emip-2014/
+  - title: "EMIP 2015 Workshop"
+    url: /workshop/emip-2015/
+  - title: "EMIP 2017 Workshop"
+    url: /workshop/emip-2017/
+  - title: "EMIP 2018 Workshop"
+    url: /workshop/emip-2018/
+  - title: "EMIP 2019 Workshop"
+    url: /workshop/emip-2019/
+  - title: "EMIP 2020 Workshop"
+    url: /workshop/emip-2020/
+  - title: "EMIP 2021 Workshop"
+    url: /workshop/emip-2021/
+  - title: "EMIP 2022 Workshop"
+    url: /workshop/emip-2022/
+  - title: "EMIP 2023 Workshop"
+    url: /workshop/emip-2023/
+  - title: "EMIP 2024 Workshop"
+    url: /workshop/emip-2024/
+    children:
+      - title: "Call for Papers"
+        url: /workshop/emip-2024-call-for-papers/
