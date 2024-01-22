@@ -49,13 +49,13 @@ The Workshop will be held in a hybrid fashion in Glasgow, UK at the ACM Symposiu
 
 Important dates:
 
-• Deadline for papers: TBA (expected to be around end of February 2024)
+• Deadline for papers: March 01, 2024 (AoE)
 
-• Notification to authors: TBA
+• Notification to authors: March 27, 2024
 
-• Camera-ready Deadline: TBA
+• Camera-ready Deadline: April 05, 2024 (AoE)
 
-• Workshop: June 04-07, 2024 (exact date/time TBA)
+• Workshop: June 07, 2024 (exact time TBA)
 
 
 # Submissions and Presentations
