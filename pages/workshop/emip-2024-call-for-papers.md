@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2024"
 ---
 # Workshop Overview
-We are inviting contributions to the Twelfth International Workshop on Eye Movements in Programming 2024, which will be held **on June 07, 2024** (2:00pm - 5:30pm). It is co-located with the [2024 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2024/) in Glasgow, UK.
+We are inviting contributions to the Twelfth International Workshop on Eye Movements in Programming 2024, which will be held **on June 07, 2024** (1:00pm - 5:30pm). It is co-located with the [2024 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2024/) in Glasgow, UK.
 
 The study of eye gaze data has great potential for research in computer programming, computing education, and software engineering practice. The Twelfth International Workshop on Eye Movements in Programming (EMIP 2024) will again focus on advancing the methodological, theoretical, and applied aspects of eye movements in programming. The goal of the workshop is to further develop the methodology of using eye gaze tracking for programming, both theoretically and in applications. What can gaze behavior tell us about cognitive processes during programming? This question enables us to understand the role of human factors involved in programming.
 
@@ -49,13 +49,13 @@ The Workshop will be held in a hybrid fashion in Glasgow, UK at the ACM Symposiu
 
 Important dates:
 
-• Deadline for papers: ~~March 01, 2024 (AoE)~~ March 04, 2024 (AoE)
+• Deadline for papers: ~~March 01, 2024 (AoE) March 04, 2024 (AoE)~~
 
-• Notification to authors: March 27, 2024
+• Notification to authors: ~~March 27, 2024~~
 
-• Camera-ready Deadline: April 05, 2024 (AoE)
+• Camera-ready Deadline: ~~April 05, 2024 (AoE)~~
 
-• Workshop: June 07, 2024 (2:00pm - 5:30pm)
+• Workshop: June 07, 2024 (1:00pm - 5:30pm)
 
 
 # Submissions and Presentations
