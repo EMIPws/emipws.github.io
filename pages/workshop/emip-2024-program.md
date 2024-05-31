@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2024"
 ---
 
-The Twelfth International Workshop on Eye Movements in Programming 2024 will be held hybrid **on Friday, 7th of June 2024 (1:00 PM - 5:30 PM)**. It is co-located with the [2024 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2024/).
+The Twelfth International Workshop on Eye Movements in Programming 2024 will be held hybrid **on Friday, 7th of June 2024 (2:00 PM - 5:30 PM)**. It is co-located with the [2024 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2024/).
 
 **EMIP 2024 Schedule (7th of June 2024):**
 
