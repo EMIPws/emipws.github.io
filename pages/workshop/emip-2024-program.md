@@ -18,7 +18,7 @@ The Twelfth International Workshop on Eye Movements in Programming 2024 will be 
 | 2:00 PM | 1:00 PM | 3:00 PM | Welcome from Organizers | 10 minutes |
 | 2:10 PM | 1:10 PM | 3:10 PM | Keynote | 75 minutes |
 | | | | Patrick Sturt: *Integration of information in sentence reading* | 60 mins + 15 min Q/A |
-| 3:25 PM | 2:25 PM | 4:15 PM | Paper Presentations (Session 1) | 35 minutes |
+| 3:25 PM | 2:25 PM | 4:25 PM | Paper Presentations (Session 1) | 35 minutes |
 | | | | Hauser et al.: *Analyzing and Interpreting Eye Movements in C++: Using Holistic Models of Image Perception* | 20 mins + 10 min Q/A |
 | 4:00 PM | 3:00 PM | 5:00 PM | Coffee Break | 30 minutes |
 | 4:30 PM | 3:30 PM | 5:30 PM | Paper Presentations (Session 2) | 60 minutes |
