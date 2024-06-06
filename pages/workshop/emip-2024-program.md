@@ -24,4 +24,4 @@ The Twelfth International Workshop on Eye Movements in Programming 2024 will be 
 | 4:30 PM | 3:30 PM | 5:30 PM | Paper Presentations (Session 2) | 60 minutes |
 | | | | Hüsing et al.: *Identifying K-12 Students’ Approaches to using Worked Examples for Epistemic Programming* ([paper](https://dl.acm.org/doi/10.1145/3649902.3655094)) | 20 mins + 10 min Q/A |
 | | | | Yang and Obaidellah: *Attention Dynamics in Programming: Eye Gaze Patterns of High- vs. Low-Ability Novice Coders* ([paper](https://dl.acm.org/doi/10.1145/3649902.3655095)) | 20 mins + 10 min Q/A |
-| 5:00 PM | 4:00 PM | 6:00 PM | Closing | 5 minutes |
+| 5:30 PM | 4:30 PM | 6:30 PM | Closing | 5 minutes |
