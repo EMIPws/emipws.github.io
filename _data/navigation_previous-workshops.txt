@@ -75,3 +75,10 @@ previous-workshops-expanded:
         url: /emip-2023-call-for-papers/
 	  - title: "EMIP 2023 Program"
         url: /emip-2023-program/
+  - title: "EMIP 2024 Workshop"
+    url: /emip-2024/
+    children:
+      - title: "EMIP 2024 Call for Papers"
+        url: /emip-2024-call-for-papers/
+	  - title: "EMIP 2024 Program"
+        url: /emip-2024-program/
