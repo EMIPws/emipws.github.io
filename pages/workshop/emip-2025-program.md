@@ -17,6 +17,7 @@ More details to be announced soon!
 
 
 ## Accepted Papers
+
 | Author(s) | Paper Title |
 |---|---|
 | Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams |
