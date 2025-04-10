@@ -9,8 +9,16 @@ sidebar:
 
 The Thirteenth International Workshop on Eye Movements in Programming 2025 will be held at the end of May 2025. It is co-located with the [2025 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2025/) in Tokyo, Japan.
 
-Please check our [call for papers](/workshop/emip-2025/)!**
+Please check our [call for papers](/workshop/emip-2025/)!
 
-**EMIP 2025 Schedule (May 2025):**
+## EMIP 2025 Schedule (May 2025)
 
-TBA.
+More details to be announced soon!
+
+
+## Accepted Papers
+| Author(s) | Paper Title |
+|---|---|
+| Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams |
+| Joshua Behler, Zachary Kozak, Kang-il Park, Bonita Sharif, Jonathan Maletic | Extending Support for Analyzing Eye Tracking Studies on Python Source Code in iTrace |
+| Suad Mohamed | Design of An Eye-Tracking Study Towards Assessing the Impact of Generative AI Use on Code Summarization |
