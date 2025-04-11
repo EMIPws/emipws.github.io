@@ -11,7 +11,7 @@ The Thirteenth International Workshop on Eye Movements in Programming 2025 will 
 
 Please check our [call for papers](/workshop/emip-2025/)!
 
-## EMIP 2025 Schedule (May 2025)
+## EMIP 2025 Schedule
 
 More details to be announced soon!
 
