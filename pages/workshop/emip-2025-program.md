@@ -21,15 +21,15 @@ More details to be announced soon!
 | 09:35 | Opening Keynote by Takatomi Kubo (40 mins + 15 mins Q/A) | 55 minutes |
 | 10:30 | Coffee Break | 30 minutes |
 | 11:00 | Session 1 Visualizing Eye Tracking Data - Working Session |  |
-|  | Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams, Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | 15 minutes |
+|  | *Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams*, Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | 15 minutes |
 |  | Group Discussion | 35 minutes |
 |  | Short Break | 10 minutes |
 | 12:00 | Session 2 Designing Eye Tracking Studies - Working Session |  |
-|  | Design of An Eye-Tracking Study Towards Assessing the Impact of Generative AI Use on Code Summarization, Suad Mohamed | 15 minutes |
+|  | *Design of An Eye-Tracking Study Towards Assessing the Impact of Generative AI Use on Code Summarization*, Suad Mohamed | 15 minutes |
 |  | Group Discussion | 45 minutes |
 | 13:00 | Lunch Break | 60 minutes |
 | 14:00 | Session 3 Eye Tracking Tools - Working Session |  |
-|  | Extending Support for Analyzing Eye Tracking Studies on Python Source Code in iTrace, Joshua Behler, Zachary Kozak, Kang-il Park, Bonita Sharif, Jonathan Maletic | 15 minutes |
+|  | *Extending Support for Analyzing Eye Tracking Studies on Python Source Code in iTrace*, Joshua Behler, Zachary Kozak, Kang-il Park, Bonita Sharif, Jonathan Maletic | 15 minutes |
 |  | iTrace Demonstration and Group Discussion | 30 minutes |
 | 14:45 | Session 4 Pitfalls and Lessons Learned |  |
 |  | Where do we go from here? Group Discussion | 45 minutes |
