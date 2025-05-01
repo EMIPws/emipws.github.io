@@ -31,9 +31,11 @@ More details to be announced soon!
 | 14:00 | Session 3 Eye Tracking Tools - Working Session |  |
 |  | Extending Support for Analyzing Eye Tracking Studies on Python Source Code in iTrace, Joshua Behler, Zachary Kozak, Kang-il Park, Bonita Sharif, Jonathan Maletic | 15 minutes |
 |  | iTrace Demonstration and Group Discussion | 30 minutes |
+| 14:45 | Session 4 Pitfalls and Lessons Learned |  |
+|  | Where do we go from here? Group Discussion | 45 minutes |
 | 15:30 | Coffee Break | 30 minutes |
-| 16:00 | ... | ... |
-| 17:25 | Closing | 5 minutes |
+| 16:00 | Group Discussion | 60 minutes |
+| 17:00 | Closing Session and EMIP 2026 | 30 minutes |
 
 ## Keynote: Decoding the Codes in the Mind: Toward Elucidating the Computational Mechanisms of Intelligence in the Domain of Programming and Beyond
 
