@@ -18,7 +18,7 @@ More details to be announced soon!
 | JST (Local) | Event | Duration |
 | --- | --- | --- |
 | 09:30 | Welcome, Introducing EMIP 2025 | 5 minutes |
-| 09:35 | Opening Keynote by Takatomi Kubo (40 mins + 15 mins Q/A) | 55 minutes |
+| 09:35 | [Opening Keynote by Takatomi Kubo](/workshop/emip-2025-program/#keynote-by-takatomi-kubo-decoding-the-codes-in-the-mind-toward-elucidating-the-computational-mechanisms-of-intelligence-in-the-domain-of-programming-and-beyond) (40 mins + 15 mins Q/A) | 55 minutes |
 | 10:30 | Coffee Break | 30 minutes |
 | 11:00 | Session 1 Visualizing Eye Tracking Data - Working Session |  |
 |  | *Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams*, Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | 15 minutes |
