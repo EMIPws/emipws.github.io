@@ -7,7 +7,7 @@ sidebar:
   nav: "emip-2025"
 ---
 
-The Thirteenth International Workshop on Eye Movements in Programming 2025 will be held on the 26th of May 2025 (9:30 am - 5:30 pm, JST). It is co-located with the [2025 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2025/) in Tokyo, Japan.
+The Thirteenth International Workshop on Eye Movements in Programming 2025 will be held on the 26th of May 2025 (9:00 am - 5:00 pm, JST). It is co-located with the [2025 ACM Symposium of Eye Tracking Research & Applications (ETRA)](http://etra.acm.org/2025/) in Tokyo, Japan.
 
 Please check our [call for papers](/workshop/emip-2025/)!
 
