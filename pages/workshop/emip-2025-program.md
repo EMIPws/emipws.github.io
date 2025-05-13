@@ -17,15 +17,16 @@ More details to be announced soon!
 
 | JST (Local) | Event | Duration |
 | --- | --- | --- |
-| 09:00 | Welcome, Introducing EMIP 2025 | 10 minutes |
-| 09:10 | [Opening Keynote by Takatomi Kubo](/workshop/emip-2025-program/#keynote-by-takatomi-kubo-decoding-the-codes-in-the-mind-toward-elucidating-the-computational-mechanisms-of-intelligence-in-the-domain-of-programming-and-beyond) (40 mins + 40 mins Q/A) | 80 minutes |
-| 10:30 | Coffee Break | 30 minutes |
-| 11:00 | Session 1 Visualizing Eye Tracking Data - Working Session |  |
+| 09:00 | Welcome, Introducing EMIP 2025 | 5 minutes |
+| 09:05 | [Opening Keynote by Takatomi Kubo](/workshop/emip-2025-program/#keynote-by-takatomi-kubo-decoding-the-codes-in-the-mind-toward-elucidating-the-computational-mechanisms-of-intelligence-in-the-domain-of-programming-and-beyond) (40 mins + 15 mins Q/A) | 55 minutes |
+| 10:00 | Coffee Break | 30 minutes |
+| 10:30 | Session 1 Visualizing Eye Tracking Data - Working Session |  |
 |  | *Visualizing Novice Programmers’ Attention Distribution using DBSCAN Clustering and Sankey Diagrams*, Wudao Yang, Zubair Ahsan, M. A. Rasel, Unaizah Obaidellah | 15 minutes |
-|  | Group Discussion | 30 minutes |
-| 11:45 | Session 2 Designing Eye Tracking Studies - Working Session |  |
+|  | Group Discussion | 35 minutes |
+| 11:20 | Session 2 Designing Eye Tracking Studies - Working Session |  |
 |  | *Design of An Eye-Tracking Study Towards Assessing the Impact of Generative AI Use on Code Summarization*, Suad Mohamed | 15 minutes |
-|  | Group Discussion | 30 minutes |
+|  | Group Discussion | 45 minutes |
+|  | Group Photo |  |
 | 12:30 | Lunch Break | 60 minutes |
 | 13:30 | Session 3 Eye Tracking Tools - Working Session |  |
 |  | *Extending Support for Analyzing Eye Tracking Studies on Python Source Code in iTrace*, Joshua Behler, Zachary Kozak, Kang-il Park, Bonita Sharif, Jonathan Maletic | 15 minutes |
